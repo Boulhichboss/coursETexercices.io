@@ -1,1 +1,1 @@
-# coursETexercices.io
+# coursETexercices
